@@ -1,0 +1,2 @@
+Looking for a Machine Learning Engineer with strong Python, scikit-learn, pandas, SQL and NLP skills.
+Experience with Flask or FastAPI, Docker and Git is a plus.

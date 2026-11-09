@@ -1,0 +1,10 @@
+Ravi Kumar
+
+Education
+BCA
+
+Experience
+Web developer using React, JavaScript, HTML, CSS, MongoDB.
+
+Skills
+React, JavaScript

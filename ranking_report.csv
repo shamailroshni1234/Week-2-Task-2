@@ -1,0 +1,4 @@
+candidate,score,skills,matched_skills,education,experience
+asha,44.2,"python, sql, nlp, scikit-learn, pandas, flask, docker, git","python, sql, nlp, scikit-learn, pandas, flask, docker, git","MCA, 2026","ML intern: built NLP models in Python with scikit-learn, pandas, SQL, Flask."
+meena,16.4,"python, sql, pandas, power bi, excel","python, sql, pandas",B.Tech,"Data analyst using Excel, Power BI, SQL, Python, pandas."
+ravi,3.7,"react, javascript, html, css, mongodb",,BCA,"Web developer using React, JavaScript, HTML, CSS, MongoDB."

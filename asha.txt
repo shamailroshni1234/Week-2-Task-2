@@ -1,0 +1,10 @@
+Asha Rao
+
+Education
+MCA, 2026
+
+Experience
+ML intern: built NLP models in Python with scikit-learn, pandas, SQL, Flask.
+
+Skills
+Python, SQL, Git, Docker
